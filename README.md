@@ -25,7 +25,7 @@ Unity Version : 2020.3.37f1
 5. Try to break the Highscore
 
 **Configuration**
-Inside the Folder **Assets>ScriptableObjects** there will be configuration files for Player, Game, Audio and Asteroids
+Inside the Folder **Assets>ScriptableObjects** there will be configuration files for Player, Powerups, Game, Audio and Asteroids
 
 You can change the values for adjusting the gameplay and experience
 

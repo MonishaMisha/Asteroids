@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c54986a33d2bcd4081db8b229bc46bb, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  TotalLife: 5
+  MaxSpeed: 6
+  deathSFX: 6
+  gameOverSFX: 5
+  moveSentivity: 5
+  steerSensitivity: 3
+  breakingSernsitivity: 3
+  FireringRate: 7
+  burstFire: 1
+  burstFireCapacity: 3
+  BulletSpeed: 8
+  TotalBullets: 20
+  BulletLifespan: 1.5
+  bulletsVarients:
+  - BulletType: 0
+    sprite: {fileID: -6982971723011532995, guid: 5b98df8fefea80a41984c72d2a8973e3, type: 3}
+  - BulletType: 1
+    sprite: {fileID: 1818778799727465137, guid: 5b98df8fefea80a41984c72d2a8973e3, type: 3}
+  fireSFX: 3

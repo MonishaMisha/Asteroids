@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa9f5fac2df7164f90257195d4ab92a, type: 3}
+  m_Name: LargeAsteroid
+  m_EditorClassIdentifier: 
+  scoreValue: 0
+  MinSpeed: 0.5
+  MaxSpeed: 1
+  textures:
+  - {fileID: -1166419645563106178, guid: a7d26e22f35f7c34f9da5d096f702edb, type: 3}
+  - {fileID: 1616849387504740547, guid: a7d26e22f35f7c34f9da5d096f702edb, type: 3}
+  - {fileID: -3344260903791176458, guid: a7d26e22f35f7c34f9da5d096f702edb, type: 3}
+  IsBreakable: 1
+  asteroidType: 2
+  sfx: 0

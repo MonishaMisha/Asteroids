@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b06029b39bb4342be60a66ff1db62d, type: 3}
+  m_Name: AudioAssetCollection
+  m_EditorClassIdentifier: 
+  sfxS:
+  - {fileID: 8300000, guid: db092a566a9110148b5b5da6459ca634, type: 3}
+  - {fileID: 8300000, guid: 2ef0b874bc2ee234e92a5e7d5c36ce8a, type: 3}
+  - {fileID: 8300000, guid: d3ca64ad636bc434bb91f6eab67fcc95, type: 3}
+  - {fileID: 8300000, guid: 1cba5fe502d65aa4186a477feba29130, type: 3}
+  - {fileID: 8300000, guid: dc605127bf431684eaf33ec7cd8ea10f, type: 3}
+  - {fileID: 8300000, guid: 0402b41f36c7bc144970995cfc8573dd, type: 3}
+  - {fileID: 8300000, guid: 1a957e647e626d14bab26bac042561c9, type: 3}
+  bgmS:
+  - {fileID: 8300000, guid: 541ff817266db4144951c9b5bec8b258, type: 3}
+  - {fileID: 8300000, guid: 527b605452972c341bfe387fb3e388b0, type: 3}
+  BGMbeat1: 0
+  BGMbeat2: 1
+  EngineSound: 4

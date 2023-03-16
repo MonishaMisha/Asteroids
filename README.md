@@ -16,9 +16,11 @@ Unity Version : 2020.3.37f1
 **Objective**
 1. Hit the asteroids that are in the game
 2. When the smallest part of the asteroid is destroyed, you gets points
-3. During gameplay, pickable powerups appear in the play area that you may pick up:
-   Blaster - gives a weapon that shoots crescent moon shaped projectiles for 10 seconds
-   Barrier - creates a force field around the ship that allows the ship to ignore one damage from the asteroid
+3. During gameplay, pickable powerups appear in the play area that you may pick up: 
+
+   Blaster - gives a weapon that shoots crescent moon shaped projectiles for 10 second
+   
+   Barrier - creates a force field around the ship that allows the ship to ignore one damage from the asteroid  
 4. Try to evade the bullets and asteroids as they can destroy the ship and you will lose a life
 5. Try to break the Highscore
 

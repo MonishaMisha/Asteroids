@@ -2,7 +2,7 @@
 
 Unity Version : 2020.3.37f1
 
-1. Start playing by opening the Asteroid Scene from **Asset > Scenes > ASteroid**
+1. Start playing by opening the Asteroid Scene from **Asset > Scenes > Asteroids**
 2. Hit the play buttton in the home screen to start playing
 
 **PC Controls**
